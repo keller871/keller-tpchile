@@ -40,16 +40,6 @@ a{
     padding: 20px;
 }
 
-/* -----------flex anterior------------------ */
-.BarraSuperior{
-    /* display: flex; */
-    /* display: grid; */
-    /* grid-template-columns: 50% 50%; */
-    /* grid-template-columns: 20%; */
-    /* flex-direction: row;
-    justify-items: start; */
-}
-
 .ListaBarraSuperior{
     list-style-type: none;
     text-decoration: none;
